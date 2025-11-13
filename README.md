@@ -1,9 +1,5 @@
 # Image Generation with Diffusion Models
 
-Authors:
-- [Mikołaj Gałkowski](https://www.github.com/galkowskim)
-- [Hubert Bujakowski](https://www.github.com/hbujakow)
-
 This project was conducted as part of a deep learning course, focusing on generating images using various diffusion model architectures. The objective was to develop and evaluate models capable of producing high-quality images through the reverse diffusion process. The dataset used for training and evaluation consisted of the LSUN Bedroom dataset.
 
 -----------------------
